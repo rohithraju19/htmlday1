@@ -1,0 +1,23 @@
+#ai{
+    text-decoration: none;
+    background-color: aqua;
+}
+#p1{
+    background-color: brown;
+}
+#p2{
+    background-color: blue;
+    text-align: center;
+}
+#p3{
+    background-color: red;
+    text-align: right;
+}
+.list1{
+    background-color: aquamarine;
+}
+.group1{
+    border: 1px solid red;
+    margin: 5% 10% 5% 30%;
+    padding: 10px 30px 10px 40px;
+}
